@@ -766,5 +766,8 @@ nav ul {
     width: 100%;
     flex-direction: column;
   }
-
+  .cards.brands .cards {
+    flex-direction: row;
+    margin-bottom: 40px;
+  }
 }
