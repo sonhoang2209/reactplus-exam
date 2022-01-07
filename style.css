@@ -618,7 +618,10 @@ nav ul {
 @media (max-width: 575px){
   body {
     margin: 0 -27.5px 0 0;
-}
+  }
+  .header .header-layout {
+    padding: 25px 0;
+  }
   .header .navbar-btn {
     display: block;
   }
